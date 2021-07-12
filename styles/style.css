@@ -146,4 +146,7 @@ hr{
          grid-template-columns: repeat(2, 1fr);
 
      }
+     .blogs, .courses{
+        margin-left: 20px;
+     }
  }
